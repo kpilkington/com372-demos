@@ -11,3 +11,11 @@ html {
 	color: red;
 	color: green;
 }
+
+p{
+	color: black;
+}
+
+#zen-summary p {
+	color: teal;
+}
