@@ -3,6 +3,10 @@ h1 {
 	background-color: gray;
 }
 
+/* Below is a demonstration 
+that the lowest rule takes 
+priority. */
+
 html {
 	color: red;
 	color: green;
