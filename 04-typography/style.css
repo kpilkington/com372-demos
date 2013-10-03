@@ -1,0 +1,17 @@
+body {
+	font-size: 100%;
+}
+
+h1 {
+	font-size: 5em; /*1em=100% */
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.75em;
+	font-weight: normal;
+	font-style: italic;
+}
